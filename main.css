@@ -1,0 +1,18 @@
+h3{
+	font-size: 20px;
+}
+
+#timeCount{
+	margin-left: 20px;
+	font-size: 30px;
+	letter-spacing: 8px;
+}
+#startButton{
+	padding:15px;
+}
+#stopButton{
+	padding:15px;
+}
+#resetButton{
+	padding:15px;
+}
